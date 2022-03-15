@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:55:10.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="d58_-BxEbjjWDq3cSAtQ" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:58:10.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Aw4hX7ezsWjCTeFTVGHo" version="17.1.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MUVID">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="KU87psQ6z10B5a0yzINX-9" value="SAVE BUTTON" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="vf8d_alBNHoykrrOERce-1" vertex="1">
           <mxGeometry x="300" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KU87psQ6z10B5a0yzINX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="vf8d_alBNHoykrrOERce-1" source="KU87psQ6z10B5a0yzINX-10" target="KU87psQ6z10B5a0yzINX-38" edge="1">
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vf8d_alBNHoykrrOERce-1" source="KU87psQ6z10B5a0yzINX-10" target="BoQTVdxH8viYVTZN8ZOK-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU87psQ6z10B5a0yzINX-10" value="RESET BUTTON" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="vf8d_alBNHoykrrOERce-1" vertex="1">
@@ -187,14 +187,32 @@
         <mxCell id="KU87psQ6z10B5a0yzINX-23" value="BASS&lt;br&gt;BASS &amp;amp;TREBLE&lt;br&gt;CLASSICAL&lt;br&gt;DANCE&lt;br&gt;FLAT&lt;br&gt;LIVE&lt;br&gt;MIDDLE&lt;br&gt;POP&lt;br&gt;ROCK&lt;br&gt;SOFT&lt;br&gt;SOFT BASS&lt;br&gt;SOFT TREBLE&lt;br&gt;TECHNO&lt;br&gt;TREBLE" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="vf8d_alBNHoykrrOERce-1" vertex="1">
           <mxGeometry x="160" y="210" width="110" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="KU87psQ6z10B5a0yzINX-38" value="OK&lt;br&gt;CANCEL" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="vf8d_alBNHoykrrOERce-1" vertex="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="KU87psQ6z10B5a0yzINX-39" value="PREAMP&lt;br&gt;31&lt;br&gt;62&lt;br&gt;125&lt;br&gt;250&lt;br&gt;500&lt;br&gt;1K&lt;br&gt;2K&lt;br&gt;4K&lt;br&gt;8K&lt;br&gt;16K&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="vf8d_alBNHoykrrOERce-1" vertex="1">
           <mxGeometry x="860" y="200" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="KU87psQ6z10B5a0yzINX-41" value="BALANCE CHANGER&lt;br&gt;STEREO CHANGER&lt;br&gt;TEMPO ON/OFF&lt;br&gt;MONO ON/OFF&lt;br&gt;RESET BUTTON&lt;br&gt;(*)OK&lt;br&gt;(*)CANCEL&lt;br&gt;VOLUME CHANGER" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="vf8d_alBNHoykrrOERce-1" vertex="1">
           <mxGeometry x="1000" y="200" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="vf8d_alBNHoykrrOERce-1" source="BoQTVdxH8viYVTZN8ZOK-0" target="BoQTVdxH8viYVTZN8ZOK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vf8d_alBNHoykrrOERce-1" source="BoQTVdxH8viYVTZN8ZOK-0" target="BoQTVdxH8viYVTZN8ZOK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-0" value="OK&amp;nbsp;&lt;br&gt;CANCEL" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="vf8d_alBNHoykrrOERce-1">
+          <mxGeometry x="460" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-2" value="SAME SCREEN WITHOUT CHANGES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vf8d_alBNHoykrrOERce-1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-3" value="SAME SCREEN WITH DEFAULT CHANGES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vf8d_alBNHoykrrOERce-1">
+          <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-6" value="OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vf8d_alBNHoykrrOERce-1">
+          <mxGeometry x="530" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BoQTVdxH8viYVTZN8ZOK-7" value="CANCEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vf8d_alBNHoykrrOERce-1">
+          <mxGeometry x="420" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
