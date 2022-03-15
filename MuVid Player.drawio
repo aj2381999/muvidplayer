@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T11:53:51.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="gXIKGO68pKug5U4QV8V_" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-15T11:54:41.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="XFa6aX51qBOc0D2JNdNE" version="17.1.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MUVID">
-    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,7 +29,7 @@
             <mxPoint x="734" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sshg2MHnolMFcLADiEKF-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0KrbZGOjnEKEtI-mjf9u-3" target="Sshg2MHnolMFcLADiEKF-12">
+        <mxCell id="xelO0oks3jV8WU9RdXrN-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0KrbZGOjnEKEtI-mjf9u-3" target="Sshg2MHnolMFcLADiEKF-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KrbZGOjnEKEtI-mjf9u-3" value="Equalizer" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -96,7 +96,7 @@
         <mxCell id="0KrbZGOjnEKEtI-mjf9u-31" value="MuVid Player" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="784" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sshg2MHnolMFcLADiEKF-12" value="REFER TO MU-EQUALIZER PAGE" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Sshg2MHnolMFcLADiEKF-12" value="REFER TO MU-EQUALIZER PAGE" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="619" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
