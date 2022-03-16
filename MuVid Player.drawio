@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T12:02:08.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MaleeoOfniqSyCg5gSxZ" version="17.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-16T05:05:59.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kHUVQntftJd4OwpRsY2g" version="17.1.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MUVID">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1uRdOAiL4PRDyY64fmG_" name="MU-EQUALIZER">
-    <mxGraphModel dx="2428" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vf8d_alBNHoykrrOERce-0" />
         <mxCell id="vf8d_alBNHoykrrOERce-1" parent="vf8d_alBNHoykrrOERce-0" />
@@ -130,10 +130,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU87psQ6z10B5a0yzINX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="vf8d_alBNHoykrrOERce-1" source="KU87psQ6z10B5a0yzINX-0" target="KU87psQ6z10B5a0yzINX-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KU87psQ6z10B5a0yzINX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="vf8d_alBNHoykrrOERce-1" source="KU87psQ6z10B5a0yzINX-0" target="KU87psQ6z10B5a0yzINX-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KU87psQ6z10B5a0yzINX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="vf8d_alBNHoykrrOERce-1" source="KU87psQ6z10B5a0yzINX-0" target="KU87psQ6z10B5a0yzINX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -250,6 +258,14 @@
         <mxCell id="BoQTVdxH8viYVTZN8ZOK-15" value="CANCEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vf8d_alBNHoykrrOERce-1">
           <mxGeometry x="990" y="425" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yOcMBT1P9Mx2rnzexP2P" name="VID-EQUALIZER">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ua7sSeggN1suC_xdkBhG-0" />
+        <mxCell id="ua7sSeggN1suC_xdkBhG-1" parent="ua7sSeggN1suC_xdkBhG-0" />
       </root>
     </mxGraphModel>
   </diagram>
