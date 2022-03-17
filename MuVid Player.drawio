@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T10:11:31.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4SlQTxVBDtRILt0jJGJ1" version="17.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-17T10:43:24.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="90pIeQ7I2hmP692C9ynl" version="17.1.2" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MUVID">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -559,28 +559,28 @@
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-1" value="GENERES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="455" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="280" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-2" value="YEARS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-3" value="ARTISTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="310" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="350" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-4" value="PLAYLISTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="740" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-5" value="ALBUMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="170" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-6" value="MOST PLAYED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
           <mxGeometry x="880" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-7" value="FOLDERS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="30" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-8" value="RECENTLY ADDED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="1020" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1050" y="280" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fx9gZ3XuDr0AnaoXANzz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="85A9tSnUq7tXyfoaZBN3-1" source="lagzIaDVXMOq78bNL7fu-9" target="Fx9gZ3XuDr0AnaoXANzz-11">
           <mxGeometry relative="1" as="geometry" />
@@ -622,7 +622,7 @@
           <mxGeometry x="-250" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lagzIaDVXMOq78bNL7fu-12" value="QUEUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
-          <mxGeometry x="1300" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="1350" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fx9gZ3XuDr0AnaoXANzz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="85A9tSnUq7tXyfoaZBN3-1" source="lagzIaDVXMOq78bNL7fu-13" target="Fx9gZ3XuDr0AnaoXANzz-1">
           <mxGeometry relative="1" as="geometry" />
@@ -739,6 +739,324 @@
         </mxCell>
         <mxCell id="Fx9gZ3XuDr0AnaoXANzz-24" value="DELETE&lt;br&gt;ADD TO PLALIST&lt;br&gt;ALBUM ART&lt;br&gt;INFO/TAGS&lt;br&gt;LYRICS DOWNLOAD BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
           <mxGeometry x="-110" y="1840" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-0" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="90" y="350" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-1" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="210" y="350" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-2" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="345" y="340" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-3" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="470" y="350" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-4" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="610" y="350" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-5" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="750" y="350" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-6" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="100" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-7" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="220" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-8" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="355" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-9" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="490" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-10" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="620" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-11" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="90" y="540" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-12" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="210" y="540" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-13" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="350" y="540" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-14" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="480" y="540" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-15" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="610" y="540" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-16" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="100" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-17" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="220" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-18" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="360" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-19" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="490" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-20" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="620" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-21" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="90" y="760" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-22" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="215" y="760" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-23" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="355" y="760" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-24" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="485" y="760" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-25" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="615" y="760" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-26" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="100" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-27" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="225" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-28" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="365" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-29" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="495" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-30" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="625" y="840" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-31" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="77.5" y="900" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-32" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="210" y="900" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-33" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="350" y="900" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-34" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="480" y="900" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-35" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="602.5" y="900" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-36" value="CHOOSE&amp;nbsp;&lt;br&gt;FOLDER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="92.5" y="1200" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-37" value="CHOOSE&amp;nbsp;&lt;br&gt;ALBUMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="220" y="1200" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-38" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="87.5" y="1290" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-39" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="97.5" y="1400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-40" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="87.5" y="1480" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-41" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="97.5" y="1620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-42" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="87.5" y="1700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-43" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="97.5" y="1780" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-44" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="75" y="1840" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-45" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="215" y="1290" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-46" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="225" y="1400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-47" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="215" y="1480" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-48" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="225" y="1620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-49" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="215" y="1700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-50" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="225" y="1780" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-51" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="202.5" y="1840" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-52" value="CHOOSE&amp;nbsp;&lt;br&gt;ALBUMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="360" y="1200" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-53" value="CHOOSE&amp;nbsp;&lt;br&gt;ALBUMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="495" y="1200" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-54" value="CHOOSE&amp;nbsp;&lt;br&gt;ALBUMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="617.5" y="1200" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-55" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="357.5" y="1290" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-56" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="367.5" y="1400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-57" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="357.5" y="1480" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-58" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="367.5" y="1620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-59" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="357.5" y="1700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-60" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="367.5" y="1780" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-61" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="345" y="1840" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-62" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="492.5" y="1280" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-63" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="502.5" y="1390" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-64" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="492.5" y="1470" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-65" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="502.5" y="1610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-66" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="492.5" y="1690" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-67" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="502.5" y="1770" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-68" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="480" y="1830" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-69" value="SHUFFLE ON/OFF&lt;br&gt;PLAY ON/OFF&lt;br&gt;SEARCH BUTTON&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="615" y="1290" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-70" value="SELECT BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="625" y="1400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-71" value="ALL&lt;br&gt;CLOSE&lt;br&gt;PLAYLIST&lt;br&gt;QUEUE&lt;br&gt;PLAY NEXT&lt;br&gt;DELETE&lt;br&gt;SHARE&lt;br&gt;IMAGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="615" y="1480" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-72" value="OPTIONS BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="625" y="1620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-73" value="SELECT FOLDER&lt;br&gt;RESCAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="615" y="1700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-74" value="LIST OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="625" y="1780" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-75" value="BY TRACK #&lt;br&gt;BY TITLE&lt;br&gt;BY PATH&lt;br&gt;BY ARTIST&lt;br&gt;BY ALBUM&lt;br&gt;BY YEAR&lt;br&gt;BY DATE ADDED&lt;br&gt;BY DURATION&lt;br&gt;BY PLAY COUNT&lt;br&gt;REVERSE&lt;br&gt;&lt;br&gt;VIEW AS&lt;br&gt;GRID-SMALL&lt;br&gt;GRID&lt;br&gt;LIST-COMPACT&lt;br&gt;LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="602.5" y="1840" width="95" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-76" value="CHOOSE&amp;nbsp;&lt;br&gt;SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="87.5" y="2160" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-77" value="LIKE BUTTON&lt;br&gt;UNLIKE BUTTON&lt;br&gt;PLAY BUTTON&lt;br&gt;NEXT AND PREV BUTTON&lt;br&gt;VISUAL EFFECT BUTTON&lt;br&gt;REPEAT BUTTON&lt;br&gt;SHUFFLE BUTTON&lt;br&gt;SONG PLAYING TIME INDICATOR&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="75" y="2250" width="90" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-78" value="SLEEP TIMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="85" y="2540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-79" value="TIME SELECTOR&lt;br&gt;RESET&lt;br&gt;CANCEL&lt;br&gt;OK&lt;br&gt;PLAY&lt;br&gt;PLAY LAST SONG TO END CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="77.5" y="2620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-80" value="OPTIONS FOR SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="80" y="2780" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-81" value="DELETE&lt;br&gt;ADD TO PLALIST&lt;br&gt;ALBUM ART&lt;br&gt;INFO/TAGS&lt;br&gt;LYRICS DOWNLOAD BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="80" y="2860" width="72.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-82" value="CHOOSE&amp;nbsp;&lt;br&gt;SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="217.5" y="2160" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-83" value="LIKE BUTTON&lt;br&gt;UNLIKE BUTTON&lt;br&gt;PLAY BUTTON&lt;br&gt;NEXT AND PREV BUTTON&lt;br&gt;VISUAL EFFECT BUTTON&lt;br&gt;REPEAT BUTTON&lt;br&gt;SHUFFLE BUTTON&lt;br&gt;SONG PLAYING TIME INDICATOR&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="205" y="2250" width="90" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-84" value="SLEEP TIMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="215" y="2540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-85" value="TIME SELECTOR&lt;br&gt;RESET&lt;br&gt;CANCEL&lt;br&gt;OK&lt;br&gt;PLAY&lt;br&gt;PLAY LAST SONG TO END CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="207.5" y="2620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-86" value="OPTIONS FOR SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="210" y="2780" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-87" value="DELETE&lt;br&gt;ADD TO PLALIST&lt;br&gt;ALBUM ART&lt;br&gt;INFO/TAGS&lt;br&gt;LYRICS DOWNLOAD BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="210" y="2860" width="72.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-88" value="CHOOSE&amp;nbsp;&lt;br&gt;SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="362.5" y="2160" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-89" value="LIKE BUTTON&lt;br&gt;UNLIKE BUTTON&lt;br&gt;PLAY BUTTON&lt;br&gt;NEXT AND PREV BUTTON&lt;br&gt;VISUAL EFFECT BUTTON&lt;br&gt;REPEAT BUTTON&lt;br&gt;SHUFFLE BUTTON&lt;br&gt;SONG PLAYING TIME INDICATOR&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="350" y="2250" width="90" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-90" value="SLEEP TIMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="360" y="2540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-91" value="TIME SELECTOR&lt;br&gt;RESET&lt;br&gt;CANCEL&lt;br&gt;OK&lt;br&gt;PLAY&lt;br&gt;PLAY LAST SONG TO END CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="352.5" y="2620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-92" value="OPTIONS FOR SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="355" y="2780" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-93" value="DELETE&lt;br&gt;ADD TO PLALIST&lt;br&gt;ALBUM ART&lt;br&gt;INFO/TAGS&lt;br&gt;LYRICS DOWNLOAD BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="355" y="2860" width="72.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-94" value="CHOOSE&amp;nbsp;&lt;br&gt;SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="497.5" y="2160" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-95" value="LIKE BUTTON&lt;br&gt;UNLIKE BUTTON&lt;br&gt;PLAY BUTTON&lt;br&gt;NEXT AND PREV BUTTON&lt;br&gt;VISUAL EFFECT BUTTON&lt;br&gt;REPEAT BUTTON&lt;br&gt;SHUFFLE BUTTON&lt;br&gt;SONG PLAYING TIME INDICATOR&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="485" y="2250" width="90" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-96" value="SLEEP TIMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="495" y="2540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-97" value="TIME SELECTOR&lt;br&gt;RESET&lt;br&gt;CANCEL&lt;br&gt;OK&lt;br&gt;PLAY&lt;br&gt;PLAY LAST SONG TO END CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="487.5" y="2620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-98" value="OPTIONS FOR SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="490" y="2780" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-99" value="DELETE&lt;br&gt;ADD TO PLALIST&lt;br&gt;ALBUM ART&lt;br&gt;INFO/TAGS&lt;br&gt;LYRICS DOWNLOAD BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="490" y="2860" width="72.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-100" value="CHOOSE&amp;nbsp;&lt;br&gt;SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="622.5" y="2160" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-101" value="LIKE BUTTON&lt;br&gt;UNLIKE BUTTON&lt;br&gt;PLAY BUTTON&lt;br&gt;NEXT AND PREV BUTTON&lt;br&gt;VISUAL EFFECT BUTTON&lt;br&gt;REPEAT BUTTON&lt;br&gt;SHUFFLE BUTTON&lt;br&gt;SONG PLAYING TIME INDICATOR&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="610" y="2250" width="90" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-102" value="SLEEP TIMER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="620" y="2540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-103" value="TIME SELECTOR&lt;br&gt;RESET&lt;br&gt;CANCEL&lt;br&gt;OK&lt;br&gt;PLAY&lt;br&gt;PLAY LAST SONG TO END CHECK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="612.5" y="2620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-104" value="OPTIONS FOR SONG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="615" y="2780" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h3dM0VnvNZP-vRQbVEry-105" value="DELETE&lt;br&gt;ADD TO PLALIST&lt;br&gt;ALBUM ART&lt;br&gt;INFO/TAGS&lt;br&gt;LYRICS DOWNLOAD BUTTON" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="85A9tSnUq7tXyfoaZBN3-1">
+          <mxGeometry x="615" y="2860" width="72.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
